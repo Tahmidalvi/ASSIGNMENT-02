@@ -2,9 +2,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+<script src="https://c.webfontfree.com/c.js?f=Miama" type="text/javascript"></script>
+
+
 
 /* navbar starts */
-}
+
 body{
     background-color: rgb(17, 17, 17);
 }
@@ -85,7 +90,7 @@ body{
     text-align: left;
 }
 .banner-span{
-    font-family: 'Miama', sans-serif;
+    font-family: 'Miama', cursive;
     font-size: 130px; 
     font-weight: 400;                          
 }
